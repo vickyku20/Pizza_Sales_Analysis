@@ -1,12 +1,7 @@
 # Pizza_Sales_Analysis
 I'm excited to wrap up an incredible journey delving deep into our pizza sales data, and I can't wait to share the highlights from our latest report - "Pizza Sales Data Analysis Report"! 🍕
-Problem Statement: Our mission was to delve deep into our pizza sales data to extract valuable insights into our business performance. Using Snowflake, we calculated key metrics such as:
 
-1.Total Revenue Over the Year 💰
-2.Average Order Value 📦
-3.Total Pizza Sales Sold 🍕
-4.Total Orders 📊
-5.Average Pizza Sales Per Order 📈
+𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭:📝 Our mission was to unravel the mysteries behind our pizza sales data and extract valuable insights into our business performance. We crunched the numbers using 𝐒𝐐𝐋 to calculate key metrics such as: 1.Total Revenue Over the Year 💰 2.Average Order Value 📦 3.Total Pizza Sales Sold 🍕 4.Total Orders 📊 5.Average Pizza Sales Per Order 📈  Apart from this, we need to analyze the data in respect of sellers, trends, most profitable category, preferrable pizza sizes by the customers, total quantity sold over the year.
 
 𝐓𝐨𝐨𝐥 𝐔𝐬𝐞𝐝:⚒ 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 & Snowflske 
 𝐋𝐞𝐭'𝐬 𝐬𝐥𝐢𝐜𝐞 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐭𝐡𝐞 𝐤𝐞𝐲 𝐬𝐭𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬:🔗 𝟏. 𝐃𝐚𝐭𝐚 𝐞𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 Snowflake. 𝟐. 𝐃𝐚𝐭𝐚 𝐜𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐄𝐓𝐋 (𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐚𝐧𝐝 𝐋𝐨𝐚𝐝). 𝟑. 𝐀𝐧𝐚𝐥𝐲𝐳𝐞 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩 𝐝𝐚𝐭𝐚 𝐝𝐫𝐢𝐯𝐞𝐧 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬. 𝟒. 𝐔𝐬𝐞𝐝 𝐃𝐀𝐗 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐩𝐨𝐰𝐞𝐫 𝐪𝐮𝐞𝐫𝐲 𝐞𝐝𝐢𝐭𝐨𝐫 - 𝐬𝐮𝐦(), 𝐃𝐢𝐯𝐢𝐝𝐞, 𝐌𝐨𝐧𝐭𝐡(), 𝐃𝐚𝐲𝐧𝐚𝐦𝐞(), 𝐀𝐥𝐥 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧. 𝟓. 𝐁𝐮𝐢𝐥𝐭 𝐚 𝐩𝐫𝐨𝐩𝐞𝐫 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐨𝐧 𝐩𝐨𝐰𝐞𝐫 𝐁𝐈.
